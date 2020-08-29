@@ -1,7 +1,9 @@
+[![FIT.jpg](https://i.postimg.cc/g2fWNw00/FIT.jpg)](https://postimg.cc/tstwg4W0)  
 
-  
 
-Leonardo de Oliveira Clemente RA:1110929  
-Pablo 1903257  
-Marcelo Silva de Oliveira RA 1904294  
+Nome | RA
+-----|------
+Leonardo de Oliveira Clemente | 1110929  
+Pablo | 1903257  
+Marcelo Silva de Oliveira | 1904294  
 
